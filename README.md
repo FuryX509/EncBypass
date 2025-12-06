@@ -1,0 +1,3 @@
+BodyENCBypass is a lightweight script designed to manipulate and bypass custom body encryption mechanisms used in desktop and mobile applications. The process begins by reverse engineering the target application to extract the communication strings and encryption keys, which are then imported into the script for further analysis and testing.
+RSAENCDEC is a sample script designed to demonstrate RSA encryption and decryption using public and private key pairs.
+RSAKeyEXT is a script designed to extract RSA keys from PFX files. It requires the PFX password for proper operation and also supports passphrase brute-forcing for authorized security testing and recovery scenarios.
